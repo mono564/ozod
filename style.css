@@ -1,0 +1,13 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1420px;
+    height: 2240px;
+    background-image: url(./images/fabio-magalhaes-xMLjhpaIciQ-unsplash.jpg);
+    background-size: cover;
+    background-position: top;
+}
